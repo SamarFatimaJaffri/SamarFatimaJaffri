@@ -1,3 +1,4 @@
+![Main Image](https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/adding-picture/images/casual-life-3d-likes.png)
 - 👋 Hi, I’m @SamarFatimaJaffri
 - 👀 I’m interested in Software Development mainly in developing desktop and web applications. Also really into AI based programming.
 - 🌱 I’m currently in my final year of BS-SE and also learning advance python and more AI concepts by doing courses.
