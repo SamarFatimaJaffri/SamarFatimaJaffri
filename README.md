@@ -3,10 +3,10 @@
 <img align="right" width="50%" src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/adding-picture/images/casual-life-3d-reading.png">
 <br/><br/><br/>
 
-- 👋 Hi, I’m @SamarFatimaJaffri
-- 👀 I’m interested in Software Development mainly in developing desktop and web applications. Also really into AI based programming.
-- 🌱 I’m currently in my final year of BS-SE and also learning advance python and more AI concepts by doing courses.
-- 💞️ I’m looking to collaborate on Python programming problems.
+- 🧕 Hi, I’m @SamarFatimaJaffri
+- 💻 I’m interested in Software Development mainly in developing desktop and web applications. Also really into AI based programming.
+- 👩‍🎓 I’m currently in my final year of BS-SE and also learning advance python and more AI concepts by doing courses.
+- 🐱‍🏍 I’m looking to collaborate on Python programming problems. <!-- 🥇 -->
 - 📫 I would really appriciate anyone mentioning me for any contribution realted to my field.
 
 <br/><br/><br/>
