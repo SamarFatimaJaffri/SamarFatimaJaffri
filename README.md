@@ -22,17 +22,16 @@
 
 
 ### Technologies:
-#### Tools:
-- ##### IDLE/ Code Editors:
-  PyCharm | Atom | VS Code | CodeBlocks | NetBeans
-- ##### Database
-  MongoDB | SQL Server
-- ##### Simulator
-  VM Ware | Hyper-V Manager | Arena
+#### Tools:  
+Type | Tools
+----: | :----:
+IDLE / Code Editors | PyCharm ; Atom ; VS Code ; CodeBlocks ; NetBeans
+Database | MongoDB ; SQL Server
+Simulator | VM Ware ; Hyper-V Manager ; Arena
 #### Languages:
- Python | C | Java | HTML |  CSS | JavaScript
+ Python ; C ; Java ; HTML ;  CSS ; JavaScript
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
 <!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=samarfatimajaffri)   -->
 <!-- &theme=juicyfresh --> <!-- &no-bg=true&no-frame=true --> <!-- &column=3&margin-w=15&margin-h=15 -->
