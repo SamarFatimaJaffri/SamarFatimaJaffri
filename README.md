@@ -19,7 +19,7 @@
 ---
 
 
-<img align="left" width="30%" src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/adding-picture/images/casual-life-3d-books.png">
+<img align="left" width="30%" src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/Design-Technologies-column/images/casual-life-3d-online-learning.png">
 
 ### Tools and Languages:
 
