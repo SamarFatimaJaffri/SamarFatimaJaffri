@@ -16,7 +16,7 @@
 - 📫 I would really appriciate anyone mentioning me for any contribution realted to my field.
 
 <br/><br/><br/>
----![casual-life-3d-books](https://user-images.githubusercontent.com/71835559/146414063-196508bf-fde7-471d-9651-e1afa42294e6.png)
+---
 
 
 <img align="left" width="30%" src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/adding-picture/images/casual-life-3d-books.png">
