@@ -28,8 +28,10 @@ Type | Tools
 IDLE / Code Editors | PyCharm ; Atom ; VS Code ; CodeBlocks ; NetBeans
 Database | MongoDB ; SQL Server
 Simulator | VM Ware ; Hyper-V Manager ; Arena
+Graphic Tools | Canva ; Adobe Illustrator ; Adobe Photoshop ; Adobe Lightroom
+UI/UX | Adobe XD ; Figma
 #### Languages:
- Python ; C ; Java ; HTML ;  CSS ; JavaScript
+ Python ; C ; Java ; HTML ;  CSS ; JavaScript ; Bash : Perl
 
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
