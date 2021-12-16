@@ -1,11 +1,11 @@
-![Main Image](https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/adding-picture/images/casual-life-3d-likes.png)
+![Main Image](images/casual-life-3d-likes.png)
 ---
 <div align="center"> 
   
   ![Views Counter](https://komarev.com/ghpvc/?username=samarfatimajaffri&color=ff69b4) 
   
 </div>
-<img align="right" width="50%" src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/adding-picture/images/casual-life-3d-reading.png">
+<img align="right" width="50%" src="images/casual-life-3d-reading.png">
 <br/><br/><br/>
 
 ### About Me:
@@ -18,7 +18,7 @@
 <br/><br/><br/>
 ---
 
-<img align="left" width="30%" src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/Design-Technologies-column/images/casual-life-3d-online-learning.png">
+<img align="left" width="30%" src="images/casual-life-3d-online-learning.png">
 
 <div align = "center">
   
