@@ -18,6 +18,8 @@
 <br/><br/><br/>
 ---
 
+<img align="left" width="30%" src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/adding-picture/images/casual-life-3d-books.png">
+
 <!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=samarfatimajaffri)   -->
 <!-- &theme=juicyfresh --> <!-- &no-bg=true&no-frame=true --> <!-- &column=3&margin-w=15&margin-h=15 -->
 
