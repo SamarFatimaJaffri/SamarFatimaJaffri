@@ -6,7 +6,6 @@
   
 </div>
 <img align="right" width="50%" src="images/casual-life-3d-reading.png"/>
-<br/><br/>
 
 ### About Me:
 - 🧕 Hey, I’m **@SamarFatimaJaffri**
@@ -15,7 +14,7 @@
 - 🐱‍🏍 I’m looking to collaborate on programming problems. <!-- 🥇 -->
 - 📫 I would really appriciate anyone mentioning me for any contribution realted to my field.
 
-<br/><br/>
+<br/><br/><br/>
 ---
 
 <img align="left" width="30%" src="images/casual-life-3d-online-learning.png"/>
