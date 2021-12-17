@@ -2,7 +2,7 @@
 ---
 <div align="center"> 
   
-  ![Views Counter](https://komarev.com/ghpvc/?username=samarfatimajaffri&color=ff69b4) 
+  ![Views Counter](https://komarev.com/ghpvc/?username=SamarFatimaJaffri&color=ff69b4) 
   
 </div>
 <img align="right" width="50%" src="images/casual-life-3d-reading.png"/>
@@ -34,6 +34,11 @@
   ---
 
 </div>
+
+<img align="right" width="45%" src="images/casual-life-3d-crystal.png"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamarFatimaJaffri&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SamarFatimaJaffri&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
