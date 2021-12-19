@@ -9,20 +9,21 @@
 
 ```
 class AboutMe:
-    def __init__(self, name, university, degree, cgpa):
-        self.name = name
-        self.university = university
-        self.degree = degree
-        self.cgpa = cgpa
+  def __init__(self, name, edu, hobbies, interests):
+    self.name = name
+    self.edu = edu
+    self.hobbies = hobbies
+    self.interests = interests
 
-    def education(self):
-        print(f"I'm completing my {self.degree} at {self.university}.")
-        print("Currently in my final year, leading my ML based Final year project.")
-        print(f"Having current C.G.P.A of {self.cgpa}+.")
+  def education(self):
+    print(f"I'm completing my {self.edu['degree']} at {self.edu['institute']}. Currently in my final year, leading my ML based Final year project. Having current C.G.P.A of {self.edu['cgpa']}+.")
+
+  def hobbies_and_interests(self):
+    print(f"My hobbies are {', '.join(self.hobbies[:-1])} and {self.hobbies[-1]}. And I am interested in {', '.join(self.interests[:-1])} and {self.interests[-1]}.")
 
 
 if __name__ == "__main__":
-    about_me = AboutMe("Samar Fatima Jaffri", "Sir Syed University of Engineering and Technology", "BS-SE", 3.7)
+  about_me = AboutMe(name="Samar Fatima Jaffri", edu={"institute": "Sir Syed University of Engineering and Technology", "degree": "BS-SE", "cgpa": 3.7}, hobbies=["coding", "learning", "reading articles"], interests=["Software Development", "Artifical Intelligence", "Data Science"])
 ```
 
 <br/> <!-- line is added -->
