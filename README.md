@@ -8,13 +8,25 @@
 <img align="right" width="50%" src="images/casual-life-3d-reading.png"/>
 
 ### About Me:
-- 🧕 Hey, I’m **@SamarFatimaJaffri**
-- 💻 I’m interested in Software Development mainly in developing desktop and web applications. Really into Artificial Intelligence and Data Engineering as well.
-- 👩‍🎓 I’m currently comleting my final year of BS-SE. Also learning advance python and improving my AI skills by doing courses.
-- 🐱‍🏍 I’m looking to collaborate on programming problems. <!-- 🥇 -->
-- 📫 I would really appriciate anyone mentioning me for any contribution realted to my field.
+```
+class Myself:
+    def __init__(self, name, university, degree, cgpa):
+        self.name = name
+        self.university = university
+        self.degree = degree
+        self.cgpa = cgpa
 
-<br/><br/><br/>
+    def education(self):
+        print(f"I'm completing my {self.degree} at {self.university}.")
+        print("Currently in my final year, leading my ML based Final year project.")
+        print(f"Having current C.G.P.A of {self.cgpa}+.")
+
+
+if __name__ == "__main__":
+    my_self = Myself("Samar Fatima Jaffri", "Sir Syed University of Engineering and Technology", "BS-SE", 3.7)
+```
+
+<br/> <!-- line is added -->
 ---
 
 <img align="left" width="20%" src="images//casual-life-3d-female-metis-t-shirt-pose-2.png"/>
