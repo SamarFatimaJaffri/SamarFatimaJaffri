@@ -7,14 +7,26 @@
 </div>
 <img align="right" width="50%" src="images/casual-life-3d-reading.png"/>
 
-### About Me:
-- 🧕 Hey, I’m **@SamarFatimaJaffri**
-- 💻 I’m interested in Software Development mainly in developing desktop and web applications. Really into Artificial Intelligence and Data Engineering as well.
-- 👩‍🎓 I’m currently comleting my final year of BS-SE. Also learning advance python and improving my AI skills by doing courses.
-- 🐱‍🏍 I’m looking to collaborate on programming problems. <!-- 🥇 -->
-- 📫 I would really appriciate anyone mentioning me for any contribution realted to my field.
+```
+class AboutMe:
+  def __init__(self, name, edu, hobbies, interests):
+    self.name = name
+    self.edu = edu
+    self.hobbies = hobbies
+    self.interests = interests
 
-<br/><br/><br/>
+  def education(self):
+    print(f"I'm completing my {self.edu['degree']} at {self.edu['institute']}. Currently in my final year, leading my ML based Final year project. Having current C.G.P.A of {self.edu['cgpa']}+.")
+
+  def hobbies_and_interests(self):
+    print(f"My hobbies are {', '.join(self.hobbies[:-1])} and {self.hobbies[-1]}. And I am interested in {', '.join(self.interests[:-1])} and {self.interests[-1]}.")
+
+
+if __name__ == "__main__":
+  about_me = AboutMe(name="Samar Fatima Jaffri", edu={"institute": "Sir Syed University of Engineering and Technology", "degree": "BS-SE", "cgpa": 3.7}, hobbies=["coding", "learning", "reading articles"], interests=["Software Development", "Artifical Intelligence", "Data Science"])
+```
+
+<br/> <!-- line is added -->
 ---
 
 <img align="left" width="20%" src="images//casual-life-3d-female-metis-t-shirt-pose-2.png"/>
