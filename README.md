@@ -22,7 +22,7 @@ class AboutMe:
 
 
 if __name__ == "__main__":
-    my_self = Myself("Samar Fatima Jaffri", "Sir Syed University of Engineering and Technology", "BS-SE", 3.7)
+    about_me = AboutMe("Samar Fatima Jaffri", "Sir Syed University of Engineering and Technology", "BS-SE", 3.7)
 ```
 
 <br/> <!-- line is added -->
