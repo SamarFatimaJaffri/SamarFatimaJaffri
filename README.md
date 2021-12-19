@@ -7,9 +7,8 @@
 </div>
 <img align="right" width="50%" src="images/casual-life-3d-reading.png"/>
 
-### About Me:
 ```
-class Myself:
+class AboutMe:
     def __init__(self, name, university, degree, cgpa):
         self.name = name
         self.university = university
