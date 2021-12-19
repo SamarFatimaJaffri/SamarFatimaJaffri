@@ -7,14 +7,26 @@
 </div>
 <img align="right" width="50%" src="images/casual-life-3d-reading.png"/>
 
-### About Me:
-- 🧕 Hey, I’m **@SamarFatimaJaffri**
-- 💻 I’m interested in Software Development mainly in developing desktop and web applications. Really into Artificial Intelligence and Data Engineering as well.
-- 👩‍🎓 I’m currently comleting my final year of BS-SE. Also learning advance python and improving my AI skills by doing courses.
-- 🐱‍🏍 I’m looking to collaborate on programming problems. <!-- 🥇 -->
-- 📫 I would really appriciate anyone mentioning me for any contribution realted to my field.
+```
+class AboutMe:
+  def __init__(self, name, edu, hobbies, interests):
+    self.name = name
+    self.edu = edu
+    self.hobbies = hobbies
+    self.interests = interests
 
-<br/><br/><br/>
+  def education(self):
+    print(f"I'm completing my {self.edu['degree']} at {self.edu['institute']}. Currently in my final year, leading my ML based Final year project. Having current C.G.P.A of {self.edu['cgpa']}+.")
+
+  def hobbies_and_interests(self):
+    print(f"My hobbies are {', '.join(self.hobbies[:-1])} and {self.hobbies[-1]}. And I am interested in {', '.join(self.interests[:-1])} and {self.interests[-1]}.")
+
+
+if __name__ == "__main__":
+  about_me = AboutMe(name="Samar Fatima Jaffri", edu={"institute": "Sir Syed University of Engineering and Technology", "degree": "BS-SE", "cgpa": 3.7}, hobbies=["coding", "learning", "reading articles"], interests=["Software Development", "Artifical Intelligence", "Data Science"])
+```
+
+<br/> <!-- line is added -->
 ---
 
 <img align="left" width="20%" src="images//casual-life-3d-female-metis-t-shirt-pose-2.png"/>
@@ -35,11 +47,24 @@
 
 </div>
 
-<img align="right" width="35%" src="images/casual-life-3d-crystal.png"/>
+<img align="right" width="29%" src="images/casual-life-3d-molecule.png"/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamarFatimaJaffri&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SamarFatimaJaffri&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
+
+<img align="left" width="10%" src="images/casual-life-3d-envelope-1.png"/>
+<img align="right" width="10%" src="images/casual-life-3d-crystal.png"/>
+
+<div align="center">
+  
+  ### Reach Me @:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamarFatimaJaffri)
+  [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/10633270)
+  ---
+  
+</div>
 
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
