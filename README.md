@@ -53,6 +53,19 @@ if __name__ == "__main__":
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SamarFatimaJaffri&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
 
+<img align="left" width="10%" src="images/casual-life-3d-envelope-1.png"/>
+<img align="right" width="10%" src="images/casual-life-3d-crystal.png"/>
+
+<div align="center">
+  
+  ### Reach Me @:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamarFatimaJaffri)
+  [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/10633270)
+  ---
+  
+</div>
+
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
 <!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=samarfatimajaffri)   -->
