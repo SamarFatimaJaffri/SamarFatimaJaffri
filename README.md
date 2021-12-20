@@ -76,6 +76,13 @@ if __name__ == "__main__":
   
   ### Attributes for Illustrations
   Illustration by [Icons 8](https://icons8.com/illustrations/author/5c07e68d82bcbc0092519bb6) from [Ouch!](https://icons8.com/illustrations)
+  ### GitHub Repos
+  #### Illustrations links provided by
+  - GitHub repo providing illustration resources link [awesome-illustrations](https://github.com/MrPeker/awesome-illustrations)
+  #### Attribute for Markdown Badges, Stats and Streaks
+  - Makrdown Badges and Dynamic badges i.e., stats and streak by [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+  #### About Me Inspired by
+  - The About Me section is inspired by a [MarikIshtar007](https://github.com/MarikIshtar007/MarikIshtar007)
 </details>
 
 
