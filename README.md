@@ -9,21 +9,29 @@
 
 ```
 class AboutMe:
-  def __init__(self, name, edu, hobbies, interests):
+  def __init__(self, name, edu, job, hobbies, interests):
     self.name = name
     self.edu = edu
+    self.job = job
     self.hobbies = hobbies
     self.interests = interests
 
   def education(self):
-    print(f"I'm completing my {self.edu['degree']} at {self.edu['institute']}. Currently in my final year, leading my ML based Final year project. Having current C.G.P.A of {self.edu['cgpa']}+.")
+    print(f"I've completed my {self.edu['degree']} from {self.edu['institute']} as a {self.edu['position']}. With the C.G.P.A {self.edu['cgpa']}.")
 
   def hobbies_and_interests(self):
     print(f"My hobbies are {', '.join(self.hobbies[:-1])} and {self.hobbies[-1]}. And I am interested in {', '.join(self.interests[:-1])} and {self.interests[-1]}.")
 
+  def career(self):
+    print(f"I'm currently working as an {self.job['role']} at {self.job['organization']}")
+
 
 if __name__ == "__main__":
-  about_me = AboutMe(name="Samar Fatima Jaffri", edu={"institute": "Sir Syed University of Engineering and Technology", "degree": "BS-SE", "cgpa": 3.7}, hobbies=["coding", "learning", "reading articles"], interests=["Software Development", "Artifical Intelligence", "Data Science"])
+  about_me = AboutMe(name="Samar Fatima Jaffri", 
+                     edu={"institute": "Sir Syed University of Engineering and Technology", "degree": "BS-SE", "position": "Silver Medalist", "cgpa": 3.77}, 
+                     job={"role": "Associate Software Engineer", "organization": "10Pearls"},
+                     hobbies=["coding", "learning", "reading articles"], 
+                     interests=["Software Development", "Artifical Intelligence", "Data Science"], )
 ```
 
 <br/> <!-- line is added -->
