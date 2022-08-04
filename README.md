@@ -37,7 +37,7 @@ if __name__ == "__main__":
 <br/> <!-- line is added -->
 ---
 
-<img align="left" width="30%" src="images//casual-life-3d-girl-sitting-on-stool-with-laptop-1.png"/>
+<img align="left" width="35%" src="images//casual-life-3d-girl-sitting-on-stool-with-laptop-1.png"/>
 
 <div align="center">
   
