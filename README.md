@@ -28,7 +28,7 @@ class AboutMe:
 
 if __name__ == "__main__":
   about_me = AboutMe(name="Samar Fatima Jaffri", 
-                     edu={"institute": "Sir Syed University of Engineering and Technology", "degree": "BS-SE", "position": "Silver Medalist", "cgpa": 3.77}, 
+                     edu={"institute": "Sir Syed University of Engineering and Technology", "degree": "BS-SE", "position": "Silver Medalist", "cgpa": 3.78}, 
                      job={"role": "Associate Software Engineer", "organization": "10Pearls"},
                      hobbies=["coding", "learning", "reading articles"], 
                      interests=["Software Development", "Artifical Intelligence", "Data Science"], )
