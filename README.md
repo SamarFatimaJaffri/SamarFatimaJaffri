@@ -7,7 +7,7 @@
 </div>
 <img align="right" width="50%" src="images/casual-life-3d-reading.png"/>
 
-```
+```python
 class AboutMe:
   def __init__(self, name, edu, job, hobbies, interests):
     self.name = name
@@ -23,15 +23,18 @@ class AboutMe:
     print(f"My hobbies are {', '.join(self.hobbies[:-1])} and {self.hobbies[-1]}. And I am interested in {', '.join(self.interests[:-1])} and {self.interests[-1]}.")
 
   def career(self):
-    print(f"I'm currently working as an {self.job['role']} at {self.job['organization']}")
+    print(f"I have 2 years of experience working in industry as a {self.job['experience']} and I am currently planning to switch to a {self.job['opento']} role")
 
 
 if __name__ == "__main__":
-  about_me = AboutMe(name="Samar Fatima Jaffri", 
-                     edu={"institute": "Sir Syed University of Engineering and Technology", "degree": "BS-SE", "position": "Silver Medalist", "cgpa": 3.78}, 
-                     job={"role": "Associate Software Engineer", "organization": "10Pearls"},
-                     hobbies=["coding", "learning", "reading articles"], 
-                     interests=["Software Development", "Artifical Intelligence", "Data Science"], )
+  about_me = AboutMe(
+    name='Samar Fatima Jaffri',
+    edu={'institute': 'Sir Syed University of Engineering and Technology', 'degree': 'BS-SE', 'position': 'Silver Medalist', 'cgpa': 3.78},
+    job={'experience': 'Software Engineer', 'opento': 'Data Science'},
+    hobbies=['coding', 'learning', 'teaching', 'reading articles'],
+    interests=['Software Development', 'Artificial Intelligence', 'Data Science']
+  )
+
 ```
 
 <br/> <!-- line is added -->
